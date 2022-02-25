@@ -16,7 +16,7 @@ Now, I can show some prints that I take in the passing years of development my p
 
 > Name | Year | Genre | Language/Software | Platform
 
-Zaim[^1] | 2020 | Puzzle | Construct 3 | itch.io
+Zaim[^1] | 2021 | Puzzle | Construct 3 | itch.io
 
 ![pipe-puzzle](https://user-images.githubusercontent.com/100398695/155658094-ee736a93-524b-4a50-ae71-5739d1978d40.png)
 
