@@ -32,7 +32,7 @@ Zoahan[^3] | 2014 | RPG | Ruby using RPG Maker VX
 
 [^1]: https://bit.ly/zaim-peraltagames - Itch.io Zaim Game
 [^2]: https://bit.ly/devotion-game-log2-mod - Devotion, Legend of Grimrock 2 Mod
-[^3]: https://bit.ly/3t5RnaT - Personal Facebook RPG Maker Album
+[^3]: https://bit.ly/zoahan-game - Zoahan, Facebook RPG Album
 
 There's always more to show, but I need to sleep some time.
 Have a great day!
