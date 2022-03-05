@@ -16,6 +16,10 @@ Now, I can show some prints that I take in the passing years of development my p
 
 > Name | Year | Genre | Language/Software | Platform
 
+Ghanor Dreams | In Progress | Metroidvania | Unity (C#) | Windows
+
+![ghanor-dreams](https://user-images.githubusercontent.com/100398695/156866248-0cecb9c1-531c-439e-aa5a-c3884184254d.png)
+
 Zaim[^1] | 2021 | Puzzle | Construct 3 | itch.io
 
 ![pipe-puzzle](https://user-images.githubusercontent.com/100398695/155658094-ee736a93-524b-4a50-ae71-5739d1978d40.png)
@@ -29,11 +33,6 @@ Devotion[^2] | 2016 | Dungeon Crawler | Lua using Legend of Grimrock 2 Editor | 
 Zoahan[^3] | 2014 | RPG | Ruby using RPG Maker VX
 
 ![rpg](https://user-images.githubusercontent.com/100398695/155658289-05621792-3f5a-4890-97c8-04892ce44460.png)
-
-Ghanor Dreams | 2022 | Metroidvania | Unity
-
-![ghanor-dreams](https://user-images.githubusercontent.com/100398695/156866248-0cecb9c1-531c-439e-aa5a-c3884184254d.png)
-
 
 [^1]: https://bit.ly/zaim-peraltagames - Itch.io Zaim Game
 [^2]: https://bit.ly/devotion-game-log2-mod - Devotion, Legend of Grimrock 2 Mod
