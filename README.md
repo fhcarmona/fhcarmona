@@ -10,7 +10,7 @@ I'm trying to migrate to reach my initial goal (game development). My life guide
 - Show to everyone how interesting/fun science can be;
 - Always trying to make the better from the worst.
 
-Now, I can show some prints that I take in the passing years of development my personal game projects (none is done).
+Now, I can show some prints that I take in the passing years of development my personal game projects.
 
 ## Projects
 
