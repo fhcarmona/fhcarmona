@@ -30,6 +30,11 @@ Zoahan[^3] | 2014 | RPG | Ruby using RPG Maker VX
 
 ![rpg](https://user-images.githubusercontent.com/100398695/155658289-05621792-3f5a-4890-97c8-04892ce44460.png)
 
+Ghanor Dreams[^4] | 2022 | Metroidvania | Unity
+
+![ghanor-dreams](https://user-images.githubusercontent.com/100398695/156866248-0cecb9c1-531c-439e-aa5a-c3884184254d.png)
+
+
 [^1]: https://bit.ly/zaim-peraltagames - Itch.io Zaim Game
 [^2]: https://bit.ly/devotion-game-log2-mod - Devotion, Legend of Grimrock 2 Mod
 [^3]: https://bit.ly/zoahan-game - Zoahan, Facebook RPG Album
