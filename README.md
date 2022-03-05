@@ -30,7 +30,7 @@ Zoahan[^3] | 2014 | RPG | Ruby using RPG Maker VX
 
 ![rpg](https://user-images.githubusercontent.com/100398695/155658289-05621792-3f5a-4890-97c8-04892ce44460.png)
 
-Ghanor Dreams[^4] | 2022 | Metroidvania | Unity
+Ghanor Dreams | 2022 | Metroidvania | Unity
 
 ![ghanor-dreams](https://user-images.githubusercontent.com/100398695/156866248-0cecb9c1-531c-439e-aa5a-c3884184254d.png)
 
