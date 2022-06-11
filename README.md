@@ -15,7 +15,7 @@ Now, I can show some prints that I take in the passing years of development my p
 
 ## Projects
 
-> Name | Year | Genre | Language/Software | Platform
+> Name | Year | Genre | Language/Software | Platform | Windows
 
 Empathy[^1] | 2022 | Criminal Visual Novel | Python/RenPy
 
@@ -25,7 +25,7 @@ Ghanor Dreams | In Progress | Metroidvania | Unity (C#) | Windows
 
 ![ghanor-dreams](https://user-images.githubusercontent.com/100398695/156866248-0cecb9c1-531c-439e-aa5a-c3884184254d.png)
 
-Zaim[^2] | 2021 | Puzzle | Construct 3 | itch.io
+Zaim[^2] | 2021 | Puzzle | Construct 3 | Windows / Linux
 
 ![pipe-puzzle](https://user-images.githubusercontent.com/100398695/155658094-ee736a93-524b-4a50-ae71-5739d1978d40.png)
 
