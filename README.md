@@ -19,7 +19,7 @@ Now, I can show some prints that I take in the passing years of development my p
 
 CLT - Coin, Life, Task | In Progress | Simulation / Horror Game | Unity (C#) | Windows
 
-![CLT-Game](https://user-images.githubusercontent.com/100398695/193611935-2c038e01-4e46-40e3-8b0b-5a71061bd62e.png)
+![CLT-Game](https://user-images.githubusercontent.com/100398695/196249712-cb0d9562-069f-4475-a817-b11af24bee0e.png)
 
 Empathy[^1] | 2022 | Criminal Visual Novel | Python/RenPy
 
