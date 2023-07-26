@@ -1,17 +1,11 @@
 # Introduction
 
-Hello, I'm Fábio Henrique Carmona, Brazilian, graduate student in game development (Fatec Carapicuiba).
+Hello, I'm Fábio Henrique Carmona, Brazilian, student in game development (Fatec Carapicuiba).
 
-Trying to migrate from backend software development (programming since 2012~) to unity/unreal game development. Email 'f.h.carmona@outlook.com'
+Unity Developer currently working at Bernoulli.
+Below there's some personal projects that I'm currently work (or was working) on.
 
-Life guide:
-
-- Learn something each day;
-- Show to everyone how interesting/fun science can be;
-
-- Always trying to make the better from the worst.
-
-Now, I can show some prints that I take in the passing years of development my personal game projects.
+Every public repository has education purpose. Feel free to download and see the mechanics.
 
 ## Projects
 
